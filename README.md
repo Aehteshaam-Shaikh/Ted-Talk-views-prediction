@@ -1,5 +1,14 @@
 # Ted Talk Views Prediction
 
+<p align="center">
+  <img 
+    width="600"
+    height="400"
+    src="https://user-images.githubusercontent.com/88892880/166883947-24571cd0-a806-47d9-9a00-87f76cd015f9.png"
+  >
+</p>
+
+
 **Problem Statement:**
 
 The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
