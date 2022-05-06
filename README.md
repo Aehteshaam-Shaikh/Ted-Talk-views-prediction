@@ -50,4 +50,7 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
  4. Seaborn
  5. Scikit-Learn
 
+**References:** https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/
+                
+
   
