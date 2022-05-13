@@ -52,7 +52,7 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
 
 **Execution Instructions**
 
-1. TO run on your local system:
+1. To run on your local system:
 
 * Step I: Use this command to install required libraries: pip install -r requirements.txt
 
