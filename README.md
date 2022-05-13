@@ -50,6 +50,19 @@ TED is devoted to spreading powerful ideas on just about any topic. These datase
  4. Seaborn
  5. Scikit-Learn
 
+**Execution Instructions**
+
+1. TO run on your local system:
+
+* Step I: Use this command to install required libraries: pip install -r requirements.txt
+
+* Step II: After it run the ipynb file using any IDE on your local system.
+
+
+2. You can directly run the ipynb file on google colab.
+
+#
+
 **References:** https://www.analyticsvidhya.com/blog/2021/05/5-regression-algorithms-you-should-know-introductory-guide/
                 
 
